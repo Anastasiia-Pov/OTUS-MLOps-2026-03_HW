@@ -113,6 +113,7 @@ log "Copying file from source bucket to destination bucket"
 s3cmd cp \
     --config=/home/ubuntu/.s3cfg \
     --acl-public \
+    --recursive \
     s3://otus-mlops-source-data/ \
     s3://$TARGET_BUCKET/
 
