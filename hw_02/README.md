@@ -29,7 +29,7 @@ anonymous_access_flags {
 
 3. **Создать Spark-кластер в Yandex Data Processing с двумя подкластерами согласно указанным характеристикам.**
 Cкрипт main.tf resource "yandex_dataproc_cluster" [line 127](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/26131cfe287e7d5c5f05c202c477d237e1f3f732/hw_02/infra/main.tf#L127).
-<img src= width=1080 />
+<img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_02/screenshots/HW_02_cluster.png width=1080 />
 
 4. **Соединиться по SSH с мастер-узлом и выполнить на нём команду копирования содержимого хранилища в файловую систему HDFS с использованием инструмента hadoop distcp.**
 Содержимое HDFS-директории в консоли
