@@ -158,7 +158,7 @@ resource "yandex_dataproc_cluster" "dataproc_cluster" {
       }
       subnet_id        = yandex_vpc_subnet.subnet.id
       hosts_count      = 1
-      assign_public_ip = true
+      assign_public_ip = false
     }
 
     subcluster_spec {
