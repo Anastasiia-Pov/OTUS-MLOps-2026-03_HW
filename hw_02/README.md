@@ -11,14 +11,10 @@ terraform apply
 
 2. **Скопировать содержимое предоставленного хранилища с использованием инструмента s3cmd.**
 Точка доступа: https://console.yandex.cloud/folders/b1g4ki09n8igs1si54v2/storage/buckets/otus-bucket-b1g4ki09n8igs1si54v2?versionsDisplay=false.
-Команда для копирования всего хранилища в бакет находится в файле [user_data.sh](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/26131cfe287e7d5c5f05c202c477d237e1f3f732/hw_02/infra/scripts/user_data.sh#L113).
+Команда для копирования всего хранилища в бакет
+Пофайловое копирование:
 ```
-s3cmd cp \
-    --config=/home/ubuntu/.s3cfg \
-    --acl-public \
-    --recursive \
-    s3://otus-mlops-source-data/ \
-    s3://otus-bucket-{yc_folder_id}/
+s3cmd ls s3://otus-mlops-source-data/ | awk '{print $4}' | while read f; do echo "==> $f"; s3cmd cp --config=/home/ubuntu/.s3cfg --acl-public "$f" s3://otus-bucket-{yc_folder_id}/; sleep 1; done
 ```
 Общедостпуность бакета обеспечивается [аргументами](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/2e7da7e03fda4764e179895d310fb5e97df10a8b/hw_02/infra/main.tf#L120)
 ```
