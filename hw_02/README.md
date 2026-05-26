@@ -27,6 +27,8 @@ anonymous_access_flags {
 Проверяем загрузку в бакет через GUI
 <img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_02/screenshots/HW_02_bucket_check.png width=1080 />
 
+<img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_02/screenshots/HW_02_%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0.png width=1080 />
+
 3. **Создать Spark-кластер в Yandex Data Processing с двумя подкластерами согласно указанным характеристикам.**
 Cкрипт main.tf resource "yandex_dataproc_cluster" [line 127](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/26131cfe287e7d5c5f05c202c477d237e1f3f732/hw_02/infra/main.tf#L127).
 <img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_02/screenshots/HW_02_cluster.png width=1080 />
