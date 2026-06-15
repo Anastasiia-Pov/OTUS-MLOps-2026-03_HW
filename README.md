@@ -8,5 +8,10 @@ Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/p
 
 ## Домашнее задание №2
 **Настройка облачной инфраструктуры для проекта по определению мошеннических транзакций**.
-[Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_02/README.md)
+[Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_02/README.md).
+Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/projects/2/views/2
+
+## Домашнее задание №3
+**Настройка облачной инфраструктуры для проекта по определению мошеннических транзакций**.
+[Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_03).
 Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/projects/2/views/2
