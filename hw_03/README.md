@@ -23,6 +23,9 @@
 В каждой директории хранятся партиции одного файла
 <img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_03/screenshots/bucket_parquets_inside.png width=1080 />
 
+[Ссылка на Object Storage](https://console.yandex.cloud/folders/b1g4ki09n8igs1si54v2/storage/buckets/otus-bucket-b1g4ki09n8igs1si54v2?versionsDisplay=false)
+
+
 ### Дополнительные задания
 
 7. **Изменить статус задач** на Kanban-доске в GitHub Projects в соответствии с достигнутыми результатами. Возможно, некоторые задачи нужно будет скорректировать, разделить на подзадачи или объединить друг с другом. [ссылка на Kanban-доску](https://github.com/users/Anastasiia-Pov/projects/2/views/2?pane=issue&itemId=178500587&issue=Anastasiia-Pov%7COTUS-MLOps-2026-03_HW%7C2)
