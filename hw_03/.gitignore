@@ -7,3 +7,4 @@ terraform.tfvars
 *.info
 ./Makefile
 *.DS_Store
+commands.sh
