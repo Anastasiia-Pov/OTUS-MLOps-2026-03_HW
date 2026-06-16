@@ -1,1 +1,10 @@
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+*.tfplan
+.terraform
+*.info
+./Makefile
 *.DS_Store
+.env
