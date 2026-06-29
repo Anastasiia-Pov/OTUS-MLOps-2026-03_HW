@@ -15,3 +15,7 @@ Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/p
 **Анализ качества и очистка датасета мошеннических финансовых операций**.  
 [Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_03).  
 Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/projects/2/views/2  
+
+## Домашнее задание №4 
+**Работаем с Feast. Создание системы управления признаками**  
+[Репозиторий]([https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_03](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_04)).  
