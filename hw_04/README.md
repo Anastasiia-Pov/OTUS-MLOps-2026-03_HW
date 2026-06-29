@@ -14,7 +14,7 @@
 Ссылка на [ноутбук](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_04/example.ipynb)
 
 
-
+**Виртуальная среда для работы с Feast**
 ```
 python3.11 -m venv .venv3.11
 source .venv3.11/bin/activate
