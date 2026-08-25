@@ -23,3 +23,7 @@ Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/p
 ## Домашнее задание №5  
 **Периодический запуск процедуры очистки датасета мошеннических финансовых транзакций**      
 [Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_05).  
+
+## Домашнее задание №6  
+**Регулярное переобучение модели обнаружения мошенничества**  
+[Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_06).  
