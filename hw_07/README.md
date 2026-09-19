@@ -23,6 +23,7 @@
 <img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_07/screenshots/ab_test_results.png width=1080 />
 
 6. **Разрешить периодическое исполнение** разработанного DAG в Apache AirFlow и протестировать его работоспособность.
+[schedule_interval=timedelta(minutes=180)](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/80907e6ef05f709e2923b6af4920a46052b577ec/hw_07/dags/ab_test_pipeline.py#L141).
 <img src=https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/blob/main/hw_07/screenshots/dag_test_pipeline.png width=1080 />
 
 ### Дополнительные задания
