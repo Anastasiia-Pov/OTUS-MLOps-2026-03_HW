@@ -138,7 +138,7 @@ with DAG(
     dag_id="ab_test_pipeline",
     default_args=default_args,
     description="A/B test champion and challenger Spark models",
-    schedule_interval=None,
+    schedule_interval=timedelta(minutes=180),  # Запуск каждые 180 минут
     max_active_runs=1,
     start_date=datetime(2025, 3, 27),
     catchup=False,
