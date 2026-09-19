@@ -27,3 +27,7 @@ Kanban-доска с задачами: https://github.com/users/Anastasiia-Pov/p
 ## Домашнее задание №6  
 **Регулярное переобучение модели обнаружения мошенничества**  
 [Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_06).  
+
+## Домашнее задание №7  
+**Валидация модели обнаружения мошенничества**  
+[Репозиторий](https://github.com/Anastasiia-Pov/OTUS-MLOps-2026-03_HW/tree/main/hw_07).  
